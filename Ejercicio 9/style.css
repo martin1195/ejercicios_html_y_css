@@ -1,0 +1,7 @@
+.viñeta{
+    list-style-type: georgian;
+}
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,32 @@
+#titulo{
+    color: darkcyan;
+}
+strong,tbody th,tfoot th{
+    color: red;
+}
+.destacado{
+    color: orange;
+}
+#subtitulo{
+    color: blue;
+}
+p a{
+    color: rgb(236, 29, 29);
+}
+em{
+    color: blue;
+    
+}
+p .especial{color: blueviolet;}
+thead .especial,tbody .especial,tbody strong{
+    color: rgb(255, 136, 0);
+}
+caption{text-align: center;}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td,td em{color: green;}
+#adicional{color: olive;}
+#especial{color: rgb(230, 74, 230);}
+div a{color: rgb(22, 218, 22);}
